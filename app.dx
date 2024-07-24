@@ -1,0 +1,9 @@
+name: "Redirect Example";
+
+plugin git_deploy (
+	prod: (
+		on: 'push'
+		branch: '*',
+		tests: false
+	)
+)

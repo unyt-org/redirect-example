@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Example</title>
+
+		<script type="module">
+			import moduleADefault from "/module";
+			import moduleBDefault from "/module@version";
+
+			console.log("exports equal?", moduleADefault == moduleBDefault); // false
+		</script>
+
+	</head>
+</html>
