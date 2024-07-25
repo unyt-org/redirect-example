@@ -1,5 +1,7 @@
 # Test app for ES6 Module imports with redirects
 
+Related Stack Overflow question: https://stackoverflow.com/questions/78785224/how-are-es6-module-imports-with-http-redirects-supposed-to-work/78790768#78790768
+
 ## Live demo
 https://redirect-example.unyt.app
 
